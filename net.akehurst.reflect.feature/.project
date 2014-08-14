@@ -3,6 +3,7 @@
 	<name>net.akehurst.reflect.feature</name>
 	<comment></comment>
 	<projects>
+		<project>net.akehurst.reflect</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
